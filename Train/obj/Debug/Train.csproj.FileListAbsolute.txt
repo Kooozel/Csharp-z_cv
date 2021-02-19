@@ -1,0 +1,7 @@
+D:\Code\Csharp-z_cv\Train\bin\Debug\Train.exe.config
+D:\Code\Csharp-z_cv\Train\bin\Debug\Train.exe
+D:\Code\Csharp-z_cv\Train\bin\Debug\Train.pdb
+D:\Code\Csharp-z_cv\Train\obj\Debug\Train.csprojAssemblyReference.cache
+D:\Code\Csharp-z_cv\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+D:\Code\Csharp-z_cv\Train\obj\Debug\Train.exe
+D:\Code\Csharp-z_cv\Train\obj\Debug\Train.pdb
